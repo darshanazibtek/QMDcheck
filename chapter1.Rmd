@@ -8,7 +8,7 @@ description: >-
 free_preview: true
 ---
 
-## How it works in poc
+## How it works
 
 ```yaml
 type: NormalExercise
